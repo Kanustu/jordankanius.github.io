@@ -19,10 +19,9 @@
   
 ### Projects
 
-[**Wildlife Strike Analysis**](https://github.com/Kanustu/Wildlife_Strike_Analysis)
+**Wildlife Strike Analysis**[_link to project_](https://github.com/Kanustu/Wildlife_Strike_Analysis)
 
-- Leveraging Tableau to transform data into accessible visual insights, creating dashboards for informed decision-making aligned with business inquiries, and effectively conveying these insights through appropriate visualizations.
-
+- Utilized Tableau to convert FAA wildlife strike data into visually accessible insights, crafting dashboards tailored for informed decision-making in line with business queries. Effectively communicated these findings through well-suited visualizations.
 
 
 
