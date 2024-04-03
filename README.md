@@ -1,9 +1,10 @@
 # Data Scientist
-### Skills: Python, SQL, Tableau
+### Technical Skills: Python, SQL, Tableau
 ### Education
 - Certficate, Data Science | LightHouse Labs(_Jan 2024_)
     
 ### Work Experience
+
 **Apprentice Data Science Mentor @ LightHouse Labs(_Mar 2024_ - _Present_)**
 
 - Provided individual and group support to students as they completed coursework, leveraging chat, video, and screen sharing technologies.
@@ -17,4 +18,7 @@
 - Orchestrated the creation of comprehensive testing suites using Pytest, achieving almost 100% coverage to validate the effectiveness of the data validation processes.
   
 ### Projects
+
+[**Wildlife Strike Analysis**](https://github.com/Kanustu/Unsupervised_Learning_LHL)
+
 
