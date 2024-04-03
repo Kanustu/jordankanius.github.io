@@ -1,10 +1,10 @@
 # Data Scientist
 
 ### Education
-- Certficate, Data Science | LightHouse Labs(_Jan 2024_)
+- Certficate, Data Science | LightHouse Labs(_Jan 2024_)![lighthouse_logo](assets/lighthouse_labs_logo.jpeg)
     
 ### Work Experience
-![Pthon](assets/Python-logo.png)**Apprentice Data Science Mentor @ LightHouse Labs(_Mar 2024_ - _Present_)**
+**Apprentice Data Science Mentor @ LightHouse Labs(_Mar 2024_ - _Present_)**
 
 - Provided individual and group support to students as they completed coursework, leveraging chat, video, and screen sharing technologies.
 - Assisted students in completing assignments offering guidance and clarification as needed.
