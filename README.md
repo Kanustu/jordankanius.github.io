@@ -1,7 +1,7 @@
 # Data Scientist
-
+### Skills: Python, SQL, Tableau
 ### Education
-- Certficate, Data Science | LightHouse Labs(_Jan 2024_)![lighthouse_logo](assets/lighthouse_labs_logo.jpeg)
+- Certficate, Data Science | LightHouse Labs(_Jan 2024_)
     
 ### Work Experience
 **Apprentice Data Science Mentor @ LightHouse Labs(_Mar 2024_ - _Present_)**
