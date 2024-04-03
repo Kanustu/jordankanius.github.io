@@ -1,7 +1,7 @@
 # Data Scientist
 ### Technical Skills: Python, SQL, Tableau
 ### Education
-- Certficate, Data Science | LightHouse Labs(_Jan 2024_)
+- Certificate, Data Science | LightHouse Labs(_Jan 2024_)
     
 ### Work Experience
 
@@ -19,6 +19,10 @@
   
 ### Projects
 
-[**Wildlife Strike Analysis**](https://github.com/Kanustu/Unsupervised_Learning_LHL)
+[**Wildlife Strike Analysis**](https://github.com/Kanustu/Wildlife_Strike_Analysis)
+
+- Leveraging Tableau to transform data into accessible visual insights, creating dashboards for informed decision-making aligned with business inquiries, and effectively conveying these insights through appropriate visualizations.
+
+
 
 
