@@ -22,7 +22,7 @@
 - Conducted statistical analysis with python on data collected from multiple sources, including the CityBikes, Foursquare and Yelp API's.
 - Attempted to find a correalation between bike availabilty and the ratings and locations of businesses within a major city centre.
 
-
+![bike rental image](assets/la_bikes.jpeg)
 
 **Unsupervised Learning Wholesale Data** [_project link_](https://github.com/Kanustu/Unsupervised_Learning_Wholesale_Data)
 
