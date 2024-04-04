@@ -18,6 +18,11 @@
 - Orchestrated the creation of comprehensive testing suites using Pytest, achieving almost 100% coverage to validate the effectiveness of the data validation processes.
   
 ### Projects
+**Unsupervised Learning Wholesale Data** [_project link_](https://github.com/Kanustu/Unsupervised_Learning_Wholesale_Data)
+
+- Performed unsupervised learning techniques on a wholesale data dataset. The project involved four main parts: exploratory data analysis and pre-processing, KMeans clustering, hierarchical clustering, and PCA.
+
+![unsupervised_learning_example](assets/
 
 **Wildlife Strike Analysis** [_project link_](https://github.com/Kanustu/Wildlife_Strike_Analysis)
 
