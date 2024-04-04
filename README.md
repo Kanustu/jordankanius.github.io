@@ -1,11 +1,11 @@
 # Data Scientist
 ### Technical Skills: Python, SQL, Tableau
 ### Education
-- Certificate, Data Science | LightHouse Labs(_Jan 2024_)
+- Certificate, Data Science | [LightHouse Labs](https://www.lighthouselabs.ca/)(_Jan 2024_)
     
 ### Work Experience
 
-**Apprentice Data Science Mentor @ LightHouse Labs(_Mar 2024_ - _Present_)**
+**Apprentice Data Science Mentor @ [LightHouse Labs](https://www.lighthouselabs.ca/)(_Mar 2024_ - _Present_)**
 
 - Provided individual and group support to students as they completed coursework, leveraging chat, video, and screen sharing technologies.
 - Assisted students in completing assignments offering guidance and clarification as needed.
@@ -18,11 +18,11 @@
 - Orchestrated the creation of comprehensive testing suites using Pytest, achieving almost 100% coverage to validate the effectiveness of the data validation processes.
   
 ### Projects
-**CityBikes Statistical Modeling** [_project_link_](https://github.com/Kanustu/CityBikes-Statistical-Modeling)
+**CityBikes Statistical Modeling** [_project link_](https://github.com/Kanustu/CityBikes-Statistical-Modeling)
 - Conducted statistical analysis with python on data collected from multiple sources, including the CityBikes, Foursquare and Yelp API's.
 - Attempted to find a correalation between bike availabilty and the ratings and locations of businesses within a major city centre.
 
-![bike rental image](assets/la_bikes.jpeg)
+[![bike rental image](assets/la_bikes.jpeg)](https://github.com/Kanustu/CityBikes-Statistical-Modeling)
 
 **Unsupervised Learning Wholesale Data** [_project link_](https://github.com/Kanustu/Unsupervised_Learning_Wholesale_Data)
 
