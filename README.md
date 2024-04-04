@@ -22,7 +22,8 @@
 
 - Performed unsupervised learning techniques on a wholesale data dataset. The project involved four main parts: exploratory data analysis and pre-processing, KMeans clustering, hierarchical clustering, and PCA.
 
-![unsupervised_learning_example](assets/
+![unsupervised_learning_example](assets/unsupervised_example.png)
+![unsupervised learning example2](assets/unsupervised_example2.png)
 
 **Wildlife Strike Analysis** [_project link_](https://github.com/Kanustu/Wildlife_Strike_Analysis)
 
