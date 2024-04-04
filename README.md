@@ -18,6 +18,12 @@
 - Orchestrated the creation of comprehensive testing suites using Pytest, achieving almost 100% coverage to validate the effectiveness of the data validation processes.
   
 ### Projects
+**CityBikes Statistical Modeling** [_project_link_](https://github.com/Kanustu/CityBikes-Statistical-Modeling)
+- Conducted statistical analysis with python on data collected from multiple sources, including the CityBikes, Foursquare and Yelp API's.
+- Attempted to find a correalation between bike availabilty and the ratings and locations of businesses within a major city centre.
+
+
+
 **Unsupervised Learning Wholesale Data** [_project link_](https://github.com/Kanustu/Unsupervised_Learning_Wholesale_Data)
 
 - Performed unsupervised learning techniques on a wholesale data dataset. The project involved four main parts: exploratory data analysis and pre-processing, KMeans clustering, hierarchical clustering, and PCA.
