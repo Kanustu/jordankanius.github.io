@@ -28,20 +28,23 @@
 
 - Performed unsupervised learning techniques on a wholesale data dataset. The project involved four main parts: exploratory data analysis and pre-processing, KMeans clustering, hierarchical clustering, and PCA.
 
-![unsupervised_learning_example](assets/unsupervised_example.png)
-![unsupervised learning example2](assets/unsupervised_example2.png)
+[![unsupervised_learning_example](assets/unsupervised_example.png)](https://github.com/Kanustu/Unsupervised_Learning_Wholesale_Data)
+[![unsupervised learning example2](assets/unsupervised_example2.png)](https://github.com/Kanustu/Unsupervised_Learning_Wholesale_Data)
 
 [**Wildlife Strike Analysis**](https://github.com/Kanustu/Wildlife_Strike_Analysis)
 
 - Utilized Tableau to convert FAA wildlife strike data into visually accessible insights, crafting dashboards tailored for informed decision-making in line with business queries. Effectively communicated these findings through well-suited visualizations.
   
-![project_example1](assets/wildlife_strikes_title.png)
-![project_example](assets/wildlife_example.png)
+[![project_example1](assets/wildlife_strikes_title.png)](https://github.com/Kanustu/Wildlife_Strike_Analysis)
+[![project_example](assets/wildlife_example.png)](https://github.com/Kanustu/Wildlife_Strike_Analysis)
 
 [**DeepFaceDetect**](https://github.com/Kanustu/DeepFaceDetect)
 
 - This project endeavours to distinguish authentic images (real) from those generated using deepfake technology, utilizing convolutional neural networks (CNN) in deep learning.
 - The final product involved the creation of an application that was deployed with streamlit and can be found here [https://deepfacedetect.streamlit.app/]( https://deepfacedetect.streamlit.app/)
 
+[![accuracy graph](assets/deepfaceaccuracy.png)](https://github.com/Kanustu/DeepFaceDetect)
+[![loss graph](assets/deeffaceloss.png)](https://github.com/Kanustu/DeepFaceDetect)
+[![confusion matrix](assets/confusion_Ensemble.png)](https://github.com/Kanustu/DeepFaceDetect)
 
 
