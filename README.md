@@ -44,7 +44,7 @@
 - The final product involved the creation of an application that was deployed with streamlit and can be found here [https://deepfacedetect.streamlit.app/]( https://deepfacedetect.streamlit.app/)
 
 [![accuracy graph](assets/deepfaceaccuracy.png)](https://github.com/Kanustu/DeepFaceDetect)
-[![loss graph](assets/deeffaceloss.png)](https://github.com/Kanustu/DeepFaceDetect)
+[![loss graph](assets/deepfaceloss.png)](https://github.com/Kanustu/DeepFaceDetect)
 [![confusion matrix](assets/confusion_Ensemble.png)](https://github.com/Kanustu/DeepFaceDetect)
 
 
