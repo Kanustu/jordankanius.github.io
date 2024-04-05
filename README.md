@@ -41,7 +41,7 @@
 [**DeepFaceDetect**](https://github.com/Kanustu/DeepFaceDetect)
 
 - This project endeavours to distinguish authentic images (real) from those generated using deepfake technology, utilizing convolutional neural networks (CNN) in deep learning.
-- The final product involved the creation of an application that was deployed with streamlit.
+- The final product involved the creation of an application that was deployed with Streamlit.
 
 [![accuracy graph](assets/deepfaceaccuracy.png)](https://github.com/Kanustu/DeepFaceDetect)
 [![loss graph](assets/deepfaceloss.png)](https://github.com/Kanustu/DeepFaceDetect)
