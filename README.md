@@ -1,4 +1,4 @@
-# Data Analyst
+# Data Analyst/Python Developer
 ### Technical Skills: Python, SQL, Tableau
 ### Education
 - Certificate, Data Science | [LightHouse Labs](https://www.lighthouselabs.ca/)(_Jan 2024_)
