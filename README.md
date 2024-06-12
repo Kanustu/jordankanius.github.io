@@ -1,4 +1,4 @@
-# Data Analyst/Python Developer
+# Data Analyst
 ### Technical Skills: Python, SQL, Tableau
 ### Education
 - Certificate, Data Science | [LightHouse Labs](https://www.lighthouselabs.ca/)(_Jan 2024_)
@@ -18,6 +18,10 @@
 - Orchestrated the creation of comprehensive testing suites using Pytest, achieving almost 100% coverage to validate the effectiveness of the data validation processes.
   
 ### Projects
+[**World Co2 Exploration**](https://github.com/Kanustu/world_co2)
+- Using postgresql for data exploration of World Co2 production
+
+
 [**First Glance**](https://github.com/Kanustu/first_glance)
 - Successfully built Python package that can return quick insights with the use of two commands:
     - stats_report, which will provide a dataframe with nullrows, datatype, and descriptive stats for the numeric columns within the data provided
