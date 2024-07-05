@@ -27,8 +27,8 @@
     - stats_report, which will provide a dataframe with nullrows, datatype, and descriptive stats for the numeric columns within the data provided
     - plot_analysis, which will provide boxplots, histograms, and a heatmap based on the numeric columns within the data provided
 
-[![stats_report image](assets/Screenshot 2024-05-09 at 10.14.39 AM.png)](https://github.com/Kanustu/first_glance)
-
+[![stats report image](assets/Screenshot 2024-05-09 at 10.14.39 AM.png)](https://github.com/Kanustu/first_glance)
+                              
 [**CityBikes Statistical Modeling**](https://github.com/Kanustu/CityBikes-Statistical-Modeling)
 - Conducted statistical analysis with python on data collected from multiple sources, including the CityBikes, Foursquare and Yelp API's.
 - Attempted to find a correalation between bike availabilty and the ratings and locations of businesses within a major city centre.
