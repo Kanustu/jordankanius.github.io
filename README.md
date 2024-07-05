@@ -22,13 +22,14 @@
 - Used postgresql for data exploration of World Co2 data
 - Used Python for data exploration and examination of Co2 data
 
+
 [**First Glance**](https://github.com/Kanustu/first_glance)
 - Successfully built Python package that can return quick insights with the use of two commands:
     - stats_report, which will provide a dataframe with nullrows, datatype, and descriptive stats for the numeric columns within the data provided
     - plot_analysis, which will provide boxplots, histograms, and a heatmap based on the numeric columns within the data provided
 
-[![stats report image](assets/Screenshot 2024-05-09 at 10.14.39 AM.png)](https://github.com/Kanustu/first_glance)
-                              
+
+
 [**CityBikes Statistical Modeling**](https://github.com/Kanustu/CityBikes-Statistical-Modeling)
 - Conducted statistical analysis with python on data collected from multiple sources, including the CityBikes, Foursquare and Yelp API's.
 - Attempted to find a correalation between bike availabilty and the ratings and locations of businesses within a major city centre.
