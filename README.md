@@ -5,7 +5,7 @@
     
 ### Work Experience
 
-**Apprentice Data Science Mentor @ [LightHouse Labs](https://www.lighthouselabs.ca/)(_Mar 2024_ - _Present_)**
+**Data Science Mentor @ [LightHouse Labs](https://www.lighthouselabs.ca/)(_Mar 2024_ - _Present_)**
 
 - Provided individual and group support to students as they completed coursework, leveraging chat, video, and screen sharing technologies.
 - Assisted students in completing assignments offering guidance and clarification as needed.
@@ -19,8 +19,8 @@
   
 ### Projects
 [**World Co2 Exploration**](https://github.com/Kanustu/world_co2)
-- Using postgresql for data exploration of World Co2 production
-
+- Used postgresql for data exploration of World Co2 data
+- Used Python for data exploration and examination of Co2 data
 
 [**First Glance**](https://github.com/Kanustu/first_glance)
 - Successfully built Python package that can return quick insights with the use of two commands:
