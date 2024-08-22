@@ -19,8 +19,10 @@
   
 ### Projects
 [**World Co2 Exploration**](https://github.com/Kanustu/world_co2)
-- Used postgresql for data exploration of World Co2 data
+- Used postgresql for data exploration and examination of Co2 data
 - Used Python for data exploration and examination of Co2 data
+- Used matplotlib and Seaborn for visualizations
+- created a Tableau based presentation
 
 
 [**First Glance**](https://github.com/Kanustu/first_glance)
