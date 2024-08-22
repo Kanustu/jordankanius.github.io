@@ -22,7 +22,7 @@
 - Used postgresql for data exploration and examination of Co2 data
 - Used Python for data exploration and examination of Co2 data
 - Used matplotlib and Seaborn for visualizations
-- created a Tableau based presentation
+- created a [**Tableau based presentation**](https://public.tableau.com/app/profile/jordan.kanius/viz/co2exploration/c02exploration)
 
 
 [**First Glance**](https://github.com/Kanustu/first_glance)
