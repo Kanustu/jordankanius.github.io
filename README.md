@@ -5,19 +5,23 @@
     
 ### Work Experience
 
-**Data Science Mentor @ [LightHouse Labs](https://www.lighthouselabs.ca/)(_Mar 2024_ - _Present_)**
+**Data Science Mentor @ [LightHouse Labs](https://www.lighthouselabs.ca/)(_Mar 2024_ - _SEP 2024_)**
 
 - Provided individual and group support to students as they completed coursework, leveraging chat, video, and screen sharing technologies.
 - Assisted students in completing assignments offering guidance and clarification as needed.
 - Reviewed curriculum regularly to stay abreast of program content and identified any concerns or areas for improvement.
 - Collaborated with instructors and administrators to ensure students received the necessary support for academic success.
 
-**Student Intern @ [Via](https://www.solvewithvia.com/)(_Feb 2024_ - _Mar 2024_)**
+**Data Intern @ [Via](https://www.solvewithvia.com/)(_Feb 2024_ - _Mar 2024_)**
 
 - Contributed to the development of a data validation program utilizing Python with SQLAlchemy ORM to ensure data integrity and accuracy.
 - Orchestrated the creation of comprehensive testing suites using Pytest, achieving almost 100% coverage to validate the effectiveness of the data validation processes.
   
 ### Projects
+[**Auto_git**](https://github.com/Kanustu/auto_git)
+- created a Python-based automation tool that performs scheduled updates to a Git repository. This tool can be used for maintaining regular repository updates.
+
+  
 [**World Co2 Exploration**](https://github.com/Kanustu/world_co2)
 - Used postgresql for data exploration and examination of Co2 data
 - Used Python for data exploration and examination of Co2 data
